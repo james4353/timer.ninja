@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bbae7d2.css",
+    "main.js": "/static/js/main.70ca9a20.js",
+    "static/js/787.faf48f1c.chunk.js": "/static/js/787.faf48f1c.chunk.js",
+    "static/media/noun-ninja-1214.svg": "/static/media/noun-ninja-1214.3c7a7f2e7b02239efc24ceb6d2cc81a7.svg",
+    "index.html": "/index.html",
+    "main.5bbae7d2.css.map": "/static/css/main.5bbae7d2.css.map",
+    "main.70ca9a20.js.map": "/static/js/main.70ca9a20.js.map",
+    "787.faf48f1c.chunk.js.map": "/static/js/787.faf48f1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bbae7d2.css",
+    "static/js/main.70ca9a20.js"
+  ]
+}

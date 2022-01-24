@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/timers/Stopwatch/StopwatchTimer.module.css"],"names":[],"mappings":"AAAA,6BACC,cAAe,CACf,eACD","file":"4.3df0d385.chunk.css","sourcesContent":[".timer {\n\tfont-size: 48px;\n\tfont-weight: bold;\n}"]}

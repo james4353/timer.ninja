@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/timers/Countdown/CountdownTimer.module.css"],"names":[],"mappings":"AAAA,6BACC,cAAe,CACf,eACD","file":"3.56161239.chunk.css","sourcesContent":[".timer {\n\tfont-size: 48px;\n\tfont-weight: bold;\n}"]}
